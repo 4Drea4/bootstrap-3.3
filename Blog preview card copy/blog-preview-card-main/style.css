@@ -1,0 +1,68 @@
+/*body{
+    font-family: figtree;
+    background-color:#F4D04E ;
+    font-size: 1.15rem;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+} remember to add font size to the bootstrap in html*/
+
+.content{
+    padding:24px;
+}
+/*.main-container{
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    width: 384px;
+    height:522px;
+    box-shadow: 0 10px 20px #111111;
+    transition: box-shadow 0.3s ease-in-out;}*/
+
+
+    .main-container:hover{
+        transform: translate(-10px, -20px);
+        box-shadow: 0 10px 20px RGBA (17, 17, 17 .20);
+    }
+.learning span{
+    color:#111111;
+    background-color: #F4D04E;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 0px;
+    line-height: 1;
+    margin-top: 8px;
+    padding:4px 8px ;
+    
+}
+
+p{
+    color: #6B6B6B;
+    font-size: 16px;
+}
+.profile-image{
+    display: flex;
+    border-radius: 50px;
+    font-weight: 300;
+    color:#111111 ;
+    align-items: center;
+    gap: 12px;
+    
+}
+.profile-picture{
+    width: 32px;
+    height:32px ;
+}
+
+.design{
+    border-radius: 30px;
+}
+
+.h6{
+    font-size: 24px;
+    margin: 0;
+    line-height: 1rem;
+   
+}

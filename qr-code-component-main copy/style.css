@@ -1,0 +1,49 @@
+
+
+#background{
+   background-color:  #D5E1EF;
+}
+body{
+    display: flex;
+    font-family:outfit ;
+    justify-content: center;
+    align-items: center;
+    height: 100 vh;
+    padding: 60px;
+}
+.major-container{
+    background-color: #FFFFFF;
+    border-radius:30px ;
+}
+.qr-image{
+    width: 288px;
+    height: 288px;
+    display:block;
+    margin: 24px auto;
+    border-radius:30px ;
+}
+.header-text h4 {
+    font-size: 1.125rem;
+    color: #1F314F;
+    text-align: center;
+}
+.p{
+    text-align: center;
+    color:#D5E1EF;
+}
+.sides{
+    padding: 16px 16px; 
+}
+
+  
+@media screen and (min-width:600px) {
+    .major-container{
+        width:320px;
+        height: 499px;
+    }
+
+    .qr-image{
+        width:288px;
+        height:288px;
+    }
+}

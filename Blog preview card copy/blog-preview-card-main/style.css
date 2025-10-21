@@ -27,34 +27,34 @@
         box-shadow: 0 10px 20px RGBA (17, 17, 17 .20);
     }
 .learning span{
-    color:#111111;
-    background-color: #F4D04E;
-    border-radius: 20px;
-    display: inline-block;
-    margin: 0px;
+   /* color:#111111; /*text dark*/
+   /* background-color: #F4D04E; /* bg-warning*/
+  /*  border-radius: 20px; /*rounded*/
+   /* display: inline-block; /*badge*/
+    margin: 0px; 
     line-height: 1;
-    margin-top: 8px;
+  /*  margin-top: 8px;/*mt-2*/
     padding:4px 8px ;
-    
+
 }
 
-p{
+/*p{
     color: #6B6B6B;
     font-size: 16px;
-}
-.profile-image{
+}*/
+/*.profile-image{
     display: flex;
-    border-radius: 50px;
-    font-weight: 300;
-    color:#111111 ;
-    align-items: center;
-    gap: 12px;
-    
-}
-.profile-picture{
+    border-radius: 50px; /*rounded*/
+    /*  font-weight: 300; /* i thought i saw something heavy */
+  /*  color:#111111 ; /* text dark*/
+   /* align-items: center; /* align items center*/
+  /*  gap: 12px;
+} */
+
+/* .profile-picture{
     width: 32px;
     height:32px ;
-}
+}*/
 
 .design{
     border-radius: 30px;

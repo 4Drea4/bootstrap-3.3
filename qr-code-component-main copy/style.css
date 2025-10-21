@@ -3,18 +3,18 @@
 #background{
    background-color:  #D5E1EF;
 }
-body{
+/*body{
     display: flex;
     font-family:outfit ;
     justify-content: center;
     align-items: center;
     height: 100 vh;
     padding: 60px;
-}
-.major-container{
+}*/
+ /*   .major-container{
     background-color: #FFFFFF;
     border-radius:30px ;
-}
+}*/
 .qr-image{
     width: 288px;
     height: 288px;

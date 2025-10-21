@@ -12,12 +12,12 @@
 
 ## Reflection Questions
 
-1.How did using Figma designs as references affect your coding process?
-This made the coding process much easier, because styling is probably the most difficult and tedious however, having the styles established for me not only made it quicker but much easier to understand. 
+1.What challenges did you face when refactoring your code to use Bootstrap?
+It was difficult to get into the rhythm of originally. In theory I see how when you have the muscle memory, it will be a lot easier. But overall getting things centered in a new way, the color was something that slowed me down a bit. 
 
-2.What challenges did you encounter when aligning your code with the design specifications?
-I had a lot of trouble styling the Learning card, I continued to get weird spacing and extra padding that I could not pin point where it was coming from. I learned that Css prefers specific tags first and that specificity like the tag then the class or ID will help me target or override something.
+2. How did using Bootstrap utility classes and components simplify your styling process?
+This made styling a lot easier because there were so many utility classes that replaced practically all of my CSS, making a lot of what was in my CSS uneccessary. 
 
-3.How can the feedback and community resources on Frontend Mentor help you improve as a developer?
-The feedback from Frontend mentor can help by giving assistance or suggestions on ways to make our code more organized, concise, or easier. It also serves as an opportunity to not be stuck in our ways when coding and recognizing multiple paths to do the same thing. 
+3.In what scenarios might you choose not to use Bootstrap and write custom CSS instead?
 
+If there are many design necesseties and specificity that are not easily covered in utilities or if you wanted to have a global css I believe it would make sense to do css. Even then it may benefit you to use a few pieces of bootstrap from time to time.
